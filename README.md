@@ -16,18 +16,19 @@ This project is a simplified version of Candy Crush, developed in x86 Assembly l
 
 2. Mount the directory containing candy.asm.
 
-  mount c C:\path\to\your\project
+    mount c C:\path\to\your\project
   
-  c:
+    c:
 
 
 3. Assemble the file:
 
-  tasm candy.asm
-  tlink candy.obj
+    tasm candy.asm
+   
+    tlink candy.obj
 
 
-4. Run the game:
+5. Run the game:
 
   candy.exe
 
