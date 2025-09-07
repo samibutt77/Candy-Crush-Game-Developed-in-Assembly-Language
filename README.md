@@ -17,6 +17,7 @@ This project is a simplified version of Candy Crush, developed in x86 Assembly l
 2. Mount the directory containing candy.asm.
 
   mount c C:\path\to\your\project
+  
   c:
 
 
